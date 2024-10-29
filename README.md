@@ -273,6 +273,3 @@ collectionView.performBatchUpdates({
 })
 ```
 [View in Source](x-source-tag://PerformUpdates)
-
-
-# ImageFeed
